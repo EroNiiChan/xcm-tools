@@ -1,5 +1,17 @@
 # Changelog
 
+## [14.4.5](https://github.com/paraspell/xcm-tools/compare/sdk-pjs-v14.4.4...sdk-pjs-v14.4.5) (2026-10-27)
+
+
+### Code Refactoring
+
+* Make unit tests use vitest v5 best practices 🪄 ([8f6ac8f](https://github.com/paraspell/xcm-tools/commit/8f6ac8f2bd20239a2fc337e944396d268af0383b))
+
+
+### Tests
+
+* Fix snapshot comparison logic to ignore small changes in fees 🧪 ([d022997](https://github.com/paraspell/xcm-tools/commit/d022997db25928c31b575e016ba3ab4f4aba82c4))
+
 ## [14.4.4](https://github.com/paraspell/xcm-tools/compare/sdk-pjs-v14.4.3...sdk-pjs-v14.4.4) (2026-10-20)
 
 
